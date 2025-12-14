@@ -28,11 +28,14 @@ const Hero = () => {
                     Hire Me <i className="far fa-angle-right" />
                   </a>
                 </Link> */}
-                <Link legacyBehavior href="/contact">
-                  <a href="#" className="theme-btn">
-                    Download Resume <i className="far fa-angle-right " />
-                  </a>
-                </Link>
+                <a
+                  href="/assets/pdfs/kiran_kumar.pdf"
+                  download
+                  className="theme-btn"
+                >
+                  Download Resume <i className="far fa-angle-right" />
+                </a>
+
 
 
               </div>

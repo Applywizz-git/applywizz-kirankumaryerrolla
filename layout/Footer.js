@@ -61,7 +61,7 @@ const Footer1 = () => {
                     </Link>
                   </li>
                   <li>
-                    <a href="/assets/pdfs/sirisha_m_resume.pdf" download="Sirisha_Resume.pdf" target="_blank" rel="noopener noreferrer">
+                    <a href="/assets/pdfs/kiran_kamr.pdf" download="Kiran_kumar.pdf" target="_blank" rel="noopener noreferrer">
                       Download CV
                     </a>
                   </li>
@@ -156,7 +156,7 @@ export const Footer2 = () => {
                     }}
                   >
                     {/* <img src="assets/images/logos/logo.png" alt="Logo" /> */}
-                    SIRISHA
+                    Kiran Kumar
                   </a>
                 </Link>
               </div>
@@ -242,7 +242,7 @@ export const Footer2 = () => {
             <p>
               Copyright @{date},{" "}
               <Link legacyBehavior href="/">
-                SIRISHA
+                Kiran Kumar
               </Link>{" "}
               All Rights Reserved
             </p>

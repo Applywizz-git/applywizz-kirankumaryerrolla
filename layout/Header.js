@@ -84,7 +84,7 @@ const Header1 = ({ onePageMenu }) => {
                           alt="Logo"
                           title="Logo"
                         /> */}
-                        SIRISHA
+                        Kiran Kumar
                       </a>
                     </Link>
                   </div>
@@ -164,7 +164,7 @@ const Header2 = ({ onePageMenu }) => {
                       alt="Logo"
                       title="Logo"
                     /> */}
-                    SIRISHA
+                    Kiran Kumar
                   </a>
                 </Link>
               </div>
@@ -189,7 +189,7 @@ const Header2 = ({ onePageMenu }) => {
                           alt="Logo"
                           title="Logo"
                         /> */}
-                        SIRISHA
+                        Kiran Kumar
                       </a>
                     </Link>
                   </div>
