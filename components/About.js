@@ -49,7 +49,7 @@ const About = () => {
             <div className="col-lg-5">
 
               <div className="about-image-part wow fadeInUp delay-0-3s">
-                <img src="assets/images/hero/kiran kumar image bg.png" alt="About Me" />
+                <img src="assets/images/hero/kiran kumar image bg.jpg" alt="About Me" />
                 <div className="about-btn btn-one wow fadeInRight delay-0-4s">
                   <img src="assets/images/about/btn-image1.png" alt="Image" />
                   <h6>Data Engineer</h6>
