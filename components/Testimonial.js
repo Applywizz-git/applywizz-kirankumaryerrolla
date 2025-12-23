@@ -63,7 +63,7 @@ export default class Testimonial extends Component {
                       “Kiran's automated ingestion pipelines on Databricks improved our daily updates by 90%. His architecture is robust, scalable, and significantly reduced our manual data wrangling efforts.”
                     </div>
                     <div className="testi-des">
-                      <h5>Michael R.</h5>
+                      <h5>Chris.</h5>
                       <span>Data Architect, Rocket Mortgage</span>
                     </div>
                   </div>
