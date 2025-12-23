@@ -61,7 +61,7 @@ const Footer1 = () => {
                     </Link>
                   </li>
                   <li>
-                    <a href="/assets/pdfs/kiran_kamr.pdf" download="Kiran_kumar.pdf" target="_blank" rel="noopener noreferrer">
+                    <a href="/assets/pdfs/kiran_kumar.pdf" download="Kiran_kumar.pdf" target="_blank" rel="noopener noreferrer">
                       Download CV
                     </a>
                   </li>
