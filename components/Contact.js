@@ -24,8 +24,8 @@ const Contact = () => {
                 <li>Data Quality & DataOps</li>
                 {/* <li className="content-break"></li> Optional break or just list them */}
                 <li><i className="fas fa-map-marker-alt" /> Dallas, TX</li>
-                <li><i className="fas fa-phone" /> +1 (248) 763-9975</li>
-                <li><i className="fas fa-envelope" /> kirankyerrolla@gmail.com</li>
+                <li><i className="fas fa-phone" /> 479-326-2429</li>
+                <li><i className="fas fa-envelope" /> yerrollakirankumar97@gmail.com</li>
               </ul>
 
             </div>

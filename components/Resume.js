@@ -83,7 +83,7 @@ const Resume = () => {
                     </div>
                     <div className="content">
                       <span className="years">Nov 2023 - Present</span>
-                      <h4>AI & Data Engineer</h4>
+                      <h4>Data Engineer</h4>
                       <span className="company">Rocket Mortgage | Detroit, MI</span>
                     </div>
                   </div>
@@ -165,6 +165,7 @@ const Resume = () => {
                 <div className="col-xl-10">
                   <div className="resume-item wow fadeInUp delay-0-3s">
                     <ul className="list-style-two">
+                      <li>AWS Certified Data Engineer – Associate</li>
                       <li>Certified Data Engineer Professional - Databricks</li>
                       <li>Certified Solutions Architect Associate - AWS</li>
                       <li>Azure Data Engineer Associate - Microsoft</li>

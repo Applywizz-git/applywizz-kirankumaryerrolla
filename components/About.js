@@ -32,7 +32,7 @@ const About = () => {
                     <div className="content">
                       <span>Email Me</span>
                       <br />
-                      <a href="mailto:kirankyerrolla@gmail.com">kirankyerrolla@gmail.com</a>
+                      <a href="mailto:yerrollakirankumar97@gmail.com">yerrollakirankumar97@gmail.com</a>
                     </div>
                   </div>
                   <div className="info-box-item">
@@ -40,7 +40,7 @@ const About = () => {
                     <div className="content">
                       <span>Make A Call</span>
                       <br />
-                      <a href="tel:+12487639975">+1 (248) 763-9975</a>
+                      <a href="tel:+14793262429">479-326-2429</a>
                     </div>
                   </div>
                 </div>

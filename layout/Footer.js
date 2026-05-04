@@ -93,11 +93,11 @@ const Footer1 = () => {
                   </li>
                   <li>
                     <i className="far fa-envelope" />{" "}
-                    <a href="mailto:kirankyerrolla@gmail.com">kirankyerrolla@gmail.com</a>
+                    <a href="mailto:yerrollakirankumar97@gmail.com">yerrollakirankumar97@gmail.com</a>
                   </li>
                   <li>
                     <i className="far fa-phone" />{" "}
-                    <a href="callto:+12487639975">+1 (248) 763-9975</a>
+                    <a href="callto:+14793262429">479-326-2429</a>
                   </li>
                 </ul>
               </div>
